@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/turtlebot/MIE443/contest1/catkin_ws/devel/setup.sh
