@@ -2,8 +2,8 @@
 Group project for course "Mechatronics Systems: Design and Integration", which consists three contests:
 
 ## Environment:
-Ubuntu  16.04 LTS
-ROS Kinetic Kame
+- Ubuntu  16.04 LTS
+- ROS Kinetic Kame
 
 ## Contest1:
 Implemented path planning algorithms to have Turtlebot robot navigate through the unknown environment and create 2D map for the surrounding environment
