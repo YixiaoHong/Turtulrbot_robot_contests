@@ -7,7 +7,7 @@ Implemented path planning algorithm to have Turtlebot robot navigate to specific
 ## Contest3:
 Collected data from sensors and develop algorithms to achieve human-robot interaction 
 
-<img src="img/tr.PNG" width="600">
+<img src="img/tb.PNG" width="600">
 <img src="img/scan.PNG" width="600">
 
 ## Environment:
