@@ -7,8 +7,8 @@ Implemented path planning algorithm to have Turtlebot robot navigate to specific
 ## Contest3:
 Collected data from sensors and develop algorithms to achieve human-robot interaction 
 
-<img src="img/tr.png" width="600">
-<img src="img/scan.png" width="600">
+<img src="img/tr.PNG" width="600">
+<img src="img/scan.PNG" width="600">
 
 ## Environment:
 - Ubuntu  16.04 LTS
